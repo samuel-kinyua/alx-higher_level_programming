@@ -1,5 +1,3 @@
 #!/bin/bash
-#chmod u+x *.py
+chmod u+x *.py
 git add .
-git commit -m'modified 4-print'
-git push

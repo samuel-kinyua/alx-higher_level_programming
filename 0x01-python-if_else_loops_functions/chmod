@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod u+x *.py
 git add .
-git commit -m'8-uppercase.py'
+sleep 30
 git push

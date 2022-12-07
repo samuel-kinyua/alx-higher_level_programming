@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod u+x *.py
 git add .
-git commit -m'4-hidden_discovery.py'
+git commit -m'5-variable_load.py'
 git push

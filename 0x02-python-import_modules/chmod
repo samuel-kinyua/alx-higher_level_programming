@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod u+x *.py
 git add .
-git commit -m'1-calculation.py'
+git commit -m'2-args.py'
 git push

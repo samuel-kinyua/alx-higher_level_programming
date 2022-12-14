@@ -1,5 +1,5 @@
 #!/bin/bash
 #chmod u+x *.py
 git add .
-git commit -'12-switch.py'
+git commit -''
 git push

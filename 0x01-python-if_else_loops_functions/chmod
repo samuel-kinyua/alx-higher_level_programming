@@ -1,5 +1,5 @@
 #!/bin/bash
 chmod u+x *.py
 git add .
-git commit -m'11-pow.py'
+git commit -m'12-fizzbuzz.py'
 git push
